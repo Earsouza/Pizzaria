@@ -1,2 +1,0 @@
-# Pizzaria
-POO - Projeto 
